@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sphesihle24
+- 👋 Hi, I’m @sphesihle pretty
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning information Technology
 - 💞️ I’m looking to collaborate on ...
